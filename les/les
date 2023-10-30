@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Get the current directory
+current_dir=$(pwd)
+
+# Get a list of all files in the directory
+files=$(ls $current_dir)
+
+# Loop through the files and open them with less
+for file in $files; do
+  less $file
+  sleep 1
+done
+
