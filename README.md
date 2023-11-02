@@ -33,3 +33,10 @@ Use this script to
 2. Create new usefull aliases and functions
 Read README.md file to learn more about SetGit script
 ```
+
+## Clone repo
+```
+Use this script to clone repo
+You can choose multiple repos
+You can change username and and token
+```
