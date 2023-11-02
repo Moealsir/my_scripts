@@ -1,7 +1,7 @@
 # My_scripts
 
-This repo contains most of my created scripts
-
+This repo contains most of my created scripts for different purposes.<br>
+To get more info about scripts, just open their README.md file.
 ## les
 ```
 Use this script to less all files in current directory one by one.
